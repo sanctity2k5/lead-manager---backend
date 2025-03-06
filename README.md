@@ -61,12 +61,21 @@ backend/
 
 ## 🔗 API Endpoints
 
-### Base URL: [https://lead-manager-backend.onrender.com](https://lead-manager-backend.onrender.com)
+### Base URL: [https://lead-manager-backend.onrender.com]
+
+## To run locally 
 
 | Method | Endpoint  | Description |
 |--------|----------|-------------|
-| POST   | `/leads` | Add a new lead |
-| GET    | `/leads` | Fetch all leads |
+| POST   | `http://localhost:5000/leads` | Add a new lead |
+| GET    | `http://localhost:5000/leads` | Fetch all leads |
+
+## To run the hosted version
+| Method | Endpoint  | Description |
+|--------|----------|-------------|
+| POST   | `https://lead-manager-backend.onrender.com/leads` | Add a new lead |
+| GET    | `https://lead-manager-backend.onrender.com/leads` | Fetch all leads |
+
 
 ## 🌎 Hosting
 This backend is deployed on [Render](https://render.com) and can be accessed via [Lead Manager Backend](https://lead-manager-backend.onrender.com).
