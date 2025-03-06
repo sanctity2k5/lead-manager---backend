@@ -55,7 +55,7 @@ backend/
    ```
 5. Start the server:
    ```sh
-   npm start
+   npm run dev
    ```
 6. The server will run on `http://localhost:5000`
 
@@ -70,7 +70,4 @@ backend/
 
 ## 🌎 Hosting
 This backend is deployed on [Render](https://render.com) and can be accessed via [Lead Manager Backend](https://lead-manager-backend.onrender.com).
-
----
-### 🚀 Happy Coding!
 
